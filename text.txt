@@ -1,0 +1,18 @@
+Kamila enviou o seguinte texto:
+"Ola, esses são meus olhos inchados de chorar 1h hora ontem e ter acordado só agora
+morrendo de dor de cabeça e pensando MEU DEUS QUANDO VOU PARAR DE TER CRISES. E pior, me sinto mega mal
+de ter que te falar isso pq parece que toda vez só falo que tô mal tô mal. Deve ser insuportável.
+Sabia que tenho medo? Eu penso que não deveria me dar o luxo de casar com você, pq vc é incrível demais
+e eu só tenho crises. Meu pai disse ontem que eu nem deveria ficar cogitando criar uma família se sou
+desse jeito, não tenho peito pra nada, tudo me deixa mal"
+
+Escaleta do site:
+- [x] Introdução
+- [x] Estilizar a página
+- [x] Meus olhos de infância
+- [x] Meus olhos quando comecei a perceber o pecado
+- [x] Meus olhos quando me tornei ateu
+- [x] Meus olhos quando conheci o verdadeiro amor (Cristo)
+- [x] Meus olhos quando conheci você 
+- [x] Conclusão (Convocação a guerra)
+- [] Vídeo do Rocky
